@@ -6,3 +6,5 @@ les etapes pour apprendre git sont :
 `git commit -m  mon message`
 `git push`
 
+   #  git merge
+   `git merge `
