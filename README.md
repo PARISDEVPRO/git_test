@@ -5,4 +5,8 @@ les etapes pour apprendre git sont :
 `git add .`
 `git commit -m  mon message`
 `git push`
+b
 
+# git rebase 
+
+ `git rebase`
